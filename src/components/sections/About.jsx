@@ -1,10 +1,10 @@
 export const About = () => {
 
     const frontendSkills = [
-        "React", "css", "Typescript", "Tailwind"
+        "React", "CSS", "Typescript", "Tailwind", "HTML", "Javascript", "JQuery", "Bootstrap"
     ]
     const backendSkills = [
-        "Node.js", "Javascript", "MongoDB", "GraphQL"
+        "Node.js", "Javascript", "MongoDB", "GraphQL", "SQL", "MySQL", "Express.js"
     ]
 
     return <section id="about" className="min-h-screen flex items-center justify-center py-20">
